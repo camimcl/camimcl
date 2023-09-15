@@ -7,18 +7,18 @@
 
 ### Connect with me:
 
-[![Linkedin](image-4.png)](https://www.linkedin.com/in/camile-marcele-b98632290/)
-[![Discord](image-7.png)](https://discord.com)
-[![Instagram](image-8.png)](https://www.instagram.com/camii.mcl/)
+[![Linkedin](assets/icons8-linkedin-48.png)](https://www.linkedin.com/in/camile-marcele-b98632290/)
+[![Discord](assets/icons8-novo-logótipo-discord-48.png)](https://discord.com)
+[![Instagram](assets/icons8-instagram-48.png)](https://www.instagram.com/camii.mcl/)
 
 ### Languages and Tools
-[![Java](image-9.png)](https://www.java.com/pt-BR/)
-[![Python](image-11.png)](https://www.python.org/)
-[![Netbeans](image-10.png)](https://netbeans.apache.org/)
-[![Intellij](image-12.png)](https://www.jetbrains.com/pt-br/idea/)
-[![VSCode](image-14.png)](https://code.visualstudio.com/)
-[![Linux](image-13.png)](https://www.linux.org/)
-[![Git](image-15.png)](https://git-scm.com/)
+[![Java](assets/icons8-logo-java-coffee-cup-48.png)](https://www.java.com/pt-BR/)
+[![Python](assets/icons8-python-48.png)](https://www.python.org/)
+[![Netbeans](assets/icons8-apache-netbeans-48.png)](https://netbeans.apache.org/)
+[![Intellij](assets/icons8-intellij-idea-48.png)](https://www.jetbrains.com/pt-br/idea/)
+[![VSCode](assets/icons8-visual-studio-48.png)](https://code.visualstudio.com/)
+[![Linux](assets/icons8-linux-48.png)](https://www.linux.org/)
+[![Git](assets/icons8-git-48.png)](https://git-scm.com/)
 
 
 ![Camile Marcele GitHub stats](https://github-readme-stats.vercel.app/api?username=camimcl&show_icons=true&theme=tokyonight)
