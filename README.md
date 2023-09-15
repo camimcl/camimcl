@@ -1,4 +1,4 @@
-## Olá, eu sou Camile Marcele! 👋
+## Hello, I'm Camile Marcele! 👋
 
 ### Computer Engineering Student
 ### 📚💻Currently studying Database, Java and Python 
@@ -20,10 +20,11 @@
 [![Linux](assets/icons8-linux-48.png)](https://www.linux.org/)
 [![Git](assets/icons8-git-48.png)](https://git-scm.com/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camimcl&layout=donut)
 
 ![Camile Marcele GitHub stats](https://github-readme-stats.vercel.app/api?username=camimcl&show_icons=true&theme=tokyonight)
 
 #### I have always loved technology since I was a child, passionate about video games and computers.
 #### Now, I'm in the process of learning programming. I want to work as a Back-end developer. Maybe in the future I will get involved with game development and artificial intelligence, which are two areas of technology that I am fascinated by.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camimcl&layout=donut)
+
