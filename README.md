@@ -19,7 +19,6 @@
 [![Linux](assets/icons8-linux-48.png)](https://www.linux.org/)
 [![Git](assets/icons8-git-48.png)](https://git-scm.com/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camimcl&layout=donut)
 
 ![Camile Marcele GitHub stats](https://github-readme-stats.vercel.app/api?username=camiMcl&show_icons=true&theme=tokyonight)
 
