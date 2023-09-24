@@ -1,7 +1,7 @@
 ## Hello, I'm Camile Marcele! 👋
 
 ### Computer Engineering Student
-### 📚💻Currently studying Database, Java and Python 
+### 📚💻Currently studying Database and Java 
 ### 📫Find me: mcamileparaujo@gmail.com 
 ### Languages:  🇺🇸 | 🇧🇷
 
@@ -17,7 +17,7 @@
 [![Intellij](assets/icons8-intellij-idea-48.png)](https://www.jetbrains.com/pt-br/idea/)
 [![VSCode](assets/icons8-visual-studio-code-2019-48.png)](https://code.visualstudio.com/)
 [![Linux](assets/icons8-linux-48.png)](https://www.linux.org/)
-[![Git](assets/icons8-git-48.png)](https://git-scm.com/)
+
 
 
 ![Camile Marcele GitHub stats](https://github-readme-stats.vercel.app/api?username=camiMcl&show_icons=true&theme=tokyonight)
