@@ -3,7 +3,7 @@
 ### Computer Engineering Student
 ### 📚💻Currently studying Database and Java 
 ### 📫Find me: mcamileparaujo@gmail.com 
-### Languages:  🇺🇸 | 🇧🇷
+### Languages: :us | 🇧🇷
 
 ### Connect with me:
 
