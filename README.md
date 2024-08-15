@@ -1,6 +1,6 @@
 ## Hello, I'm Camile Marcele! 👋
 
-### Computer Engineering Student
+### Computer Science Student
 ### 📚💻Currently studying Database and Java 
 ### 📫Find me: mcamileparaujo@gmail.com 
 ### Languages: :us: | 🇧🇷
