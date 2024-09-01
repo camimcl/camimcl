@@ -1,27 +1,35 @@
 ## Hello, I'm Camile Marcele! 👋
 
-### Computer Science Student
-### 📚💻Currently studying Database and Java 
+### Computer Science Student 
 ### 📫Find me: mcamileparaujo@gmail.com 
 ### Languages: :us: | 🇧🇷
 
 ### Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camii.mcl/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camile-marcele-b98632290/)
+<br>
 
-[![Linkedin](assets/icons8-linkedin-48.png)](https://www.linkedin.com/in/camile-marcele-b98632290/)
-[![Instagram](assets/icons8-instagram-48.png)](https://www.instagram.com/camii.mcl/)
+### Tech Stack
+<a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="65" height="65"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="65" height="65"/></a>
+<a href="https://www.mysql.com/"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MYSQL" width="60" height="60"/></a>
+<a href=""><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" width="50" height="50"/></a>
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"/></a>
+<a href ="https://ubuntu.com/download"><img src ="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="50" height="50"/></a>
+<a href="https://unity.com/pt"><img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" height="50" width="50" alt="Unity"/></a>
+<a href="https://www.jetbrains.com/pt-br/idea/"><img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="Intellij" height="50" width="50"/></a>
+<a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170"><img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" height="50" width="50"/></a>
 
-### Languages and Tools
-[![Java](assets/icons8-logo-java-coffee-cup-48.png)](https://www.java.com/pt-BR/)
-[![Python](assets/icons8-python-48.png)](https://www.python.org/)
-[![Netbeans](assets/icons8-apache-netbeans-48.png)](https://netbeans.apache.org/)
-[![Intellij](assets/icons8-intellij-idea-48.png)](https://www.jetbrains.com/pt-br/idea/)
-[![VSCode](assets/icons8-visual-studio-code-2019-48.png)](https://code.visualstudio.com/)
-[![Linux](assets/icons8-linux-48.png)](https://www.linux.org/)
-
-
-
-![Camile Marcele GitHub stats](https://github-readme-stats.vercel.app/api?username=camiMcl&show_icons=true&theme=tokyonight)
-
-#### Now, I'm in the process of learning programming. I want to work as a Back-end developer. Also, i'm willing to get involved with game development and artificial intelligence.
+#### Now I'm in the learning process and I like to think and elaborate a lot when solving problems. I want to work as a Back-end developer. Furthermore, I am very cooperative and am always looking for advice and new opportunities.
 
 
+
+###
+
+|GITHUB STATS|MOST USED LANGUAGES|
+|:---:|:---:|
+|[![euthiagomota github stats](https://github-readme-stats.vercel.app/api?username=camimcl&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camimcl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
+
+
+
+<br>
