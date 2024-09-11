@@ -18,7 +18,7 @@
 <a href ="https://ubuntu.com/download"><img src ="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="50" height="50"/></a>
 <a href="https://unity.com/pt"><img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" height="50" width="50" alt="Unity"/></a>
 <a href="https://www.jetbrains.com/pt-br/idea/"><img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="Intellij" height="50" width="50"/></a>
-<a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170"><img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" height="50" width="50"/></a>
+<a href=""><img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" height="50" width="50"/></a>
 
 #### Now I'm in the learning process and I like to think and elaborate a lot when solving problems. I want to work as a Back-end developer. Furthermore, I am very cooperative and am always looking for advice and new opportunities.
 
