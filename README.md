@@ -9,6 +9,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camile-marcele-b98632290/)
 <br>
 
+###
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berilovania/berilovania/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berilovania/berilovania/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/berilovania/berilovania/output/pacman-contribution-graph.svg">
+</picture>
+###
+
 ### Tech Stack
 <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="Java" width="65" height="65"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="65" height="65"/></a>
@@ -21,15 +29,11 @@
 <a href=""><img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" height="50" width="50"/></a>
 
 #### Now I'm in the learning process and I like to think and elaborate a lot when solving problems. I want to work as a Back-end developer. Furthermore, I am very cooperative and am always looking for advice and new opportunities.
+<br>
 
-
-
-###
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![euthiagomota github stats](https://github-readme-stats.vercel.app/api?username=camimcl&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camimcl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
+|[![camimcl github stats](https://github-readme-stats.vercel.app/api?username=camimcl&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camimcl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
 
 
-
-<br>
